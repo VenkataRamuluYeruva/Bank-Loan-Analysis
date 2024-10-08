@@ -13,18 +13,31 @@ The project utilizes SQL for querying the data and Tableau for visualizations, h
 The dataset includes various fields related to bank loan applications. Key fields are:
 
 ``id``: Unique identifier for each loan application.
+
 ``address_state``: State of the applicant.
+
 ``application_type``: Type of loan application.
+
 ``emp_length``: Employment length of the applicant.
+
 ``emp_title``: Job title of the applicant.
+
 ``grade & sub_grade``: Risk grades assigned to the applicant.
+
 ``home_ownership``: Applicant's home ownership status.
+
 ``issue_date``: Date the loan was issued.
+
 ``loan_status``: Status of the loan (e.g., fully paid, charged off, current).
+
 ``loan_amount``: Amount of the loan.
+
 ``int_rate``: Interest rate of the loan.
+
 ``dti``: Debt-to-income ratio.
+
 ``purpose``: Purpose of the loan (e.g., debt consolidation, home improvement).
+
 ``total_payment``: Total payment made towards the loan.
 
 ## Tableau Visualizations
