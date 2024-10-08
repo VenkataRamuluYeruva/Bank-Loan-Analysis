@@ -64,3 +64,6 @@ This graph tracks the month-over-month trend of loan applications, helping ident
 ## Conclusion
 This analysis provided valuable insights into bank loan behaviors and trends, offering a deeper understanding of loan application volumes, regional trends, loan purpose breakdowns, and loan statuses. SQL was used for the core analysis, while Tableau was leveraged to create interactive visualizations.
 
+![summary Breakdown](summary.png)
+
+![overview breakdown](overview.png)
